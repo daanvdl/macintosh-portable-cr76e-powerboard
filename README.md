@@ -42,7 +42,50 @@ Electrically and functionally, this board behaves the same as the original.
 ---
 
 ## Bill of Materials (BOM)
-The BOM will follow.
+
+This Bill of Materials (BOM) is provided for reference purposes only. Component values, part numbers, and descriptions are based on reverse engineering and visual inspection and may be incomplete or inaccurate. No guarantee is given regarding correctness, suitability, or fitness for any particular application. Use this information at your own risk. Always verify components against the original hardware and schematics before ordering or assembling parts.
+
+| Name  | Value                 | Comment                                              |
+| ----- | --------------------- | ---------------------------------------------------- |
+| C102  | XE223 0.022uF 250V X2 |                                                      |
+| C103  | N/A                   | NOT POPULATED                                        |
+| C104  | 2200 pF (KC222M)      |                                                      |
+| C105  | 2200 pF (KC222M)      |                                                      |
+| C106  | 2200 pF (KC222M)      |                                                      |
+| C107  | 2200 pF (KC222M)      |                                                      |
+| C108  | N/A                   | NOT POPULATED                                        |
+| C109  | 47uF/400V             |                                                      |
+| C110  | 103K630               |                                                      |
+| C111  | 2200 pF (KC222M)      |                                                      |
+| C201  | 2200uF/16V            |                                                      |
+| C203  | 330uF/16V             |                                                      |
+| C204  | N/A                   | NOT POPULATED                                        |
+| C205  | N/A                   | NOT POPULATED                                        |
+| C206  | 100uF/25V             |                                                      |
+| D101  | GI DF05               | Bridge Rectifier. Can be replaced with DF06 and DF10 |
+| D102  | unreadable            |                                                      |
+| D103  | unreadable            | zener?                                               |
+| D201  | FMB29L                | MBR1060CT / MBR10100CT                               |
+| D202  | 1N5817/1N5819         | 1N5817                                               |
+| D203  | N/A                   | NOT POPULATED                                        |
+| F101  | FUSE HOLDER           |                                                      |
+| L101  | 4S-333 V99            |                                                      |
+| L201  | 100M Inductor         | Sony 408-933-11 / 100M Inductor                      |
+| PS101 | Nickel Oxide Varistor |                                                      |
+| Q101  | N-MOSFET              | 600 V N-MOSFET: 7N60 / 9N60 / 11N60 / 13N60          |
+| R101  | 1.8M Ohm 1/2W Metal   |                                                      |
+| R102  | 3.3 Ohm 2W AGH        |                                                      |
+| R103  | 330K Ohm 1/8W carbon  |                                                      |
+| R104  | 330K Ohm 1/8W carbon  |                                                      |
+| R105  | 27K ohm 1/8W carbon   |                                                      |
+| R106  | 47K Ohm 1/2W          |                                                      |
+| R107  | 100 Ohm 1/4W carbon   |                                                      |
+| R108  | 1.2 Ohm 1/4W carbon   |                                                      |
+| R109  | N/A                   | NOT POPULATED                                        |
+| R201  | 0.1 Ohm 1/4W          |                                                      |
+| R202  | 220 Ohm 1/2W          |                                                      |
+| R203  | N/A                   | NOT POPULATED                                        |
+| T101  | Sony A-4935-112-A     | D9D01 SONY TRANSFORMER                               |
 
 ---
 
