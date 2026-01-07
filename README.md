@@ -1,36 +1,26 @@
 # Macintosh Portable M5136Z (CR-76E) Adapter PCB
 
 ## Overview
-This project provides a **drop-in replacement PCB** for the **Sony Macintosh Portable M5136Z (CR-76E)** power board (Sony design).
+This project provides a drop-in replacement PCB for the **Sony Macintosh Portable M5136Z (CR-76E)** power board.
 It is intended as a 1-to-1 replacement for the original PCB, allowing reliable restoration of Macintosh Portable systems where the original power board has become unreliable or irreparably damaged.
 
 ![Board](Images/board.png)
 ---
 
 ## Reason for This Project
-Due to the use of **poor-quality electrolytic capacitors**, many original Macintosh Portable power PCBs have suffered from:
-- severe electrolyte leakage,
-- electrical instability,
-- or structural damage to the point where repair is no longer safe or reliable.
-
+Due to the use of poor quality end 80's/ early 90's electrolytic capacitors, many original Macintosh Portable power PCBs have suffered fromm severe electrolyte leakage, electrical instability or structural damage to the point where repair is no longer safe or reliable.
 In many cases, recapping alone is not sufficient, and replacing the PCB is the only sensible long-term solution.
 This adapter PCB was designed to address exactly that problem.
 
 ---
 
 ## Board
-- ✅ Fully drop-in replacement. No system modifications required
-- ✅ 1-to-1 replica of the original Sony CR-76E PCB
-- ✅ Identical connectors, layout, and functionality
-- ✅ Jumper wires have been replaced by PCB traces on the top layer
+- Fully drop-in replacement. No system modifications required
+- 1-to-1 replica of the original Sony CR-76E PCB
+- Identical connectors, layout, and functionality
+- Jumper wires have been replaced by PCB traces on the top layer
 
 Electrically and functionally, this board behaves the same as the original.
-
----
-
-## Compatibility
-- Macintosh Portable **M5136Z**
-- Power board: **Sony CR-76E**
 
 ---
 
@@ -86,6 +76,21 @@ This Bill of Materials (BOM) is provided for reference purposes only. Component 
 | R202  | 220Ohm 1/2W (beige)    |                                                           |
 | R203  | N/A                    | NOT POPULATED                                             |
 | T101  | Sony A-4935-112-A      | D9D01 SONY                                                |
+
+---
+
+## References
+
+1. **THEtechknight** – *Macintosh Portable AC Adapter Restoration*  
+   YouTube video covering analysis and restoration of the Macintosh Portable AC adapter / power board.  
+   The video clearly demonstrates the type of damage caused by leaking electrolytic capacitors.  
+   Note: The damage may be significantly worse than shown in this video.  
+   https://www.youtube.com/watch?v=47v9GxB199Y&t=660s
+
+2. **MacDat.net – Macintosh Portable AC Power Board Capacitor Reference**  
+   Capacitor reference overview for the Macintosh Portable AC power board, provided for cross-checking component values and placement.  
+   See also the **Bill of Materials (BOM)** section.  
+   https://macdat.net/repair/cap_reference/apple/powerbook/portable_ac.html
 
 ---
 
