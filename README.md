@@ -54,18 +54,18 @@ This Bill of Materials (BOM) is provided for reference purposes only. Component 
 | C106  | 2200 pF (KC222M)       |                                                           |
 | C107  | 2200 pF (KC222M)       |                                                           |
 | C108  | N/A                    | NOT POPULATED                                             |
-| C109  | 47uF/400V              |                                                           |
+| C109  | 47uF/400V              | Panasonic EEU-ED2G470                                     |
 | C110  | 103K630                |                                                           |
 | C111  | 2200 pF (KC222M)       |                                                           |
-| C201  | 2200uF/16V             |                                                           |
-| C203  | 330uF/16V              |                                                           |
+| C201  | 2200uF/16V             | Panasonic EEU-FM1C222B                                    |
+| C203  | 330uF/16V              | Panasonic EEU-FM1C331B                                    |
 | C204  | N/A                    | NOT POPULATED                                             |
 | C205  | N/A                    | NOT POPULATED                                             |
-| C206  | 100uF/25V              |                                                           |
+| C206  | 100uF/25V              | Panasonic EEU-FR1E101B                                    |
 | CN101 | CN201                  | SIDE BOARD                                                |
 | D101  | GI DF05                | Bridge Rectifier. Can be replaced with DF06 and DF10      |
 | D102  | likely UF4007 or FR107 | Snubber circuit                                           |
-| D103  | BZX55-C7V5             | 7.5V zener                                                |
+| D103  | BZX55-C7V5             | 7.53                                                      |
 | D201  | FMB29L                 | MBR1060CT / MBR10100CT                                    |
 | D202  | 1N5817/1N5819          | 1N5817                                                    |
 | D203  | N/A                    | NOT POPULATED                                             |
