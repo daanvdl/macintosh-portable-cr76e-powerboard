@@ -92,6 +92,10 @@ This Bill of Materials (BOM) is provided for reference purposes only. Component 
    See also the **Bill of Materials (BOM)** section.  
    https://macdat.net/repair/cap_reference/apple/powerbook/portable_ac.html
 
+3. **cr76u-hybrid** (mounted on the sideboard of the main PCB)
+   CR-76D Shin EI IC Recreation for the Sony CR-76U Power Supply used in the Macintosh Portable.
+   https://github.com/thetechknight/cr76u-hybrid/tree/main
+
 ---
 
 ## Disclaimer
