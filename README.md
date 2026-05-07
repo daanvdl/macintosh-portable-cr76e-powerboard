@@ -61,8 +61,8 @@ This Bill of Materials (BOM) is provided for reference purposes only. Component 
 | D203  | N/A                    | NOT POPULATED                                             |
 | L101  | 4S-333 V99             |                                                           |
 | L201  | 100M Inductor          | Sony 408-933-11 / 100M Inductor                           |
-| PS101 | Nickel Oxide Varistor  |                                                           |
-| Q101  | N-MOSFET               | 600 V N-MOSFET family like 7N60 / 9N60 / 11N60 / 13N60    |
+| PS101 | ICP-N10                |                                                           |
+| Q101  | IRFIBC20               |                                                           |
 | R101  | 1.8M 1/2W Metal        |                                                           |
 | R102  | 3.3 Ohm 2W AGH         |                                                           |
 | R103  | 330K Ohm 1/8W carbon   |                                                           |
